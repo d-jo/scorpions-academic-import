@@ -1,6 +1,5 @@
-# Academic Import
+# Unused, moved to different frontend and backend repos:
 
-# Project Structure
-`./frontend/*` contains the Angular frontend
+https://github.com/d-jo/scorpions-import-backend
 
-`./backend/*` contains the python backend
+https://github.com/d-jo/scorpions-import-frontend
